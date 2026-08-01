@@ -1,0 +1,2 @@
+# slotly-releases
+Slotly releases
