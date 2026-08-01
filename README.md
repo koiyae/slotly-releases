@@ -108,6 +108,10 @@ A versão mais recente do APK está disponível na página de releases:
 - **Jetpack Compose BoM** — compatibilidade entre bibliotecas Compose
 - **Android Studio**
 - **Git e GitHub** — versionamento e hospedagem do projeto
+- **GitHub Actions** — pipelines de CI/CD para validação, build, assinatura e publicação do APK
+- **GitHub Secrets** — proteção das credenciais utilizadas na assinatura das versões
+- **Firebase Emulator Suite** — execução automatizada dos testes de segurança durante a CI
+- **apksigner** — verificação da assinatura digital do APK
 
 ## Sobre o projeto
 
