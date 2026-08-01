@@ -6,6 +6,13 @@
   >
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/APK-Digitally_Signed-3DDC84?logo=android&logoColor=white" alt="APK assinado">
+  <img src="https://img.shields.io/badge/Firestore_Rules-38_Tests_Passing-success?logo=firebase&logoColor=white" alt="38 testes passando">
+</p>
+
+
 O **Slotly** é um aplicativo Android para gerenciamento de disponibilidade e agendamento de horários entre clientes e prestadores de serviço.
 
 Este repositório contém o APK e demonstrações em vídeo do aplicativo em funcionamento.
