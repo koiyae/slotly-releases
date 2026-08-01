@@ -1,5 +1,10 @@
-# Slotly — App Showcase
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/aa3f2112-2cb9-4355-903e-94519f14ccc9"
+    alt="Logo do Slotly"
+    width="300"
+  >
+</p>
 O **Slotly** é um aplicativo Android para gerenciamento de disponibilidade e agendamento de horários entre clientes e prestadores de serviço.
 
 Este repositório contém o APK e demonstrações em vídeo do aplicativo em funcionamento.
