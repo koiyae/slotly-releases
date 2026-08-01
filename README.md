@@ -5,6 +5,7 @@
     width="300"
   >
 </p>
+
 O **Slotly** é um aplicativo Android para gerenciamento de disponibilidade e agendamento de horários entre clientes e prestadores de serviço.
 
 Este repositório contém o APK e demonstrações em vídeo do aplicativo em funcionamento.
