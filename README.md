@@ -1,5 +1,4 @@
-
-# Slotly
+# Slotly — App Showcase
 
 O **Slotly** é um aplicativo Android para gerenciamento de disponibilidade e agendamento de horários entre clientes e prestadores de serviço.
 
