@@ -20,7 +20,11 @@ Este repositório contém o APK e demonstrações em vídeo do aplicativo em fun
 - Interface moderna desenvolvida com Jetpack Compose
 
 ## Demonstração
+#### Fluxo cliente
+
 https://github.com/user-attachments/assets/f58de7e1-1aa1-4409-a9f1-1276c0af3b1f
+
+#### Fluxo prestador
 
 https://github.com/user-attachments/assets/6482845d-29df-47c2-abc3-a4fa069751c5
 
